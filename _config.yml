@@ -16,7 +16,7 @@ timezone: Asia/Calcutta
 
 title: Arpit Waghmare # the main title
 
-tagline: Security Researcher || Ethical Hacker || Bug Bounty Hunter <br><h2>Passionate and Highly skilled professional wants to contribute to secure digital world.</h2></br> # it will display as the subtitle
+tagline: Security Researcher || Ethical Hacker || Bug Bounty Hunter <br><h5>Passionate and Highly skilled professional wants to contribute to secure digital world.</h5></br> # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
