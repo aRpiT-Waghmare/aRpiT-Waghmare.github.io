@@ -1,7 +1,7 @@
 ---
-title: Starting A Blog Hosted On Github Pages
-date: 2024-02-10 +0530
-categories: <div Blogs="Cracking the OSCP Code"></div>
+title: Cracking the OSCP Code
+date: 2024-02-04 +0530
+categories: [Blogs]
 tags: [github-pages, blog, personal blog, jekyll]
 author: Arpit
 ---
