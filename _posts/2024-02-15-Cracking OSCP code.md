@@ -2,8 +2,8 @@
 title: Cracking the OSCP Code
 date: 2024-02-04 +0530
 categories: [Blogs]
-tags: [github-pages, blog, personal blog, jekyll]
-author: Arpit
+tags: [OSCP, blog, personal blog,]
+author: [Arpit Waghamre]
 ---
 
 
