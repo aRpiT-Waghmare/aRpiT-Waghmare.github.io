@@ -1,6 +1,6 @@
 ---
 title: Cracking the OSCP Code
-date: 2024-02-04 +0530
+date: 2024-02-04 03:00 +0530
 categories: [Blogs]
 tags: [OSCP, blog, personal blog,]
 author: [Arpit Waghamre]
