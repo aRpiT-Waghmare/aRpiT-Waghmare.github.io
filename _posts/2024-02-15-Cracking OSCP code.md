@@ -12,6 +12,7 @@ author: Arpit Waghamre
 
 Hello guys, Myself Arpit Waghmare it’s my first ever blog, please share your feedback in comments.
 
+(/assets/img/"oscp badge.png"):(width:200)
 
 <b>Getting started before OSCP:</b> I started my journey by starting with hack the box. Here, I solved starting point section all free labs which helped me to understand basics.
 
