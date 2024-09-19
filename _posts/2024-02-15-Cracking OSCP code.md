@@ -12,7 +12,7 @@ author: Arpit Waghamre
 
 Hello guys, Myself Arpit Waghmare it’s my first ever blog, please share your feedback in comments.
 
-(/assets/img/"oscp badge.png"):(width:200)
+![Desktop View](/assets/img/oscp badge.png){: width="200" height="300" }
 
 <b>Getting started before OSCP:</b> I started my journey by starting with hack the box. Here, I solved starting point section all free labs which helped me to understand basics.
 
@@ -32,10 +32,17 @@ Hello guys, Myself Arpit Waghmare it’s my first ever blog, please share your f
 
 <b>After EXAM:</b> Now after exam, I was confident that I will pass the Exam. It took 5 days to get my result till this time, I got so nervous while opening the mail but at the end I was so happy when I read, that I have completed the certification successfully no more words to express the feeling.
 
+![Desktop View](/assets/img/oscp cert.png)
+
+
 The final thing, I just want to say thanks to all who helped me throughout this journey.
 
 <b>My Details:</b>
-<b>Name:</b> Arpit Waghmare
+
+
+<b>Name:</b> Arpit Waghmare 
+
+
 <b>LinkedIn Profile:</b> http://www.linkedin.com/in/arpitwaghmare
  
 
